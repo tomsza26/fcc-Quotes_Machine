@@ -14,7 +14,7 @@ class App extends Component {
 	}
 
 	componentDidMount() {
-		fetch('https://raw.githubusercontent.com/tomsza26/Call-of-Duty---Quotes-Machine/master/src/quotes.json')
+		fetch('https://raw.githubusercontent.com/tomsza26/fcc-Quotes_Machine/master/src/quotes.json')
 			.then((data) => data.json())
 			.then((quotes) => this.setState({ quotes }, this.assignNewQuoteIndex));
 	}

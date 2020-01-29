@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fcc-Quotes_Machine/static/css/main.23b2d7b1.chunk.css",
+    "main.js": "/fcc-Quotes_Machine/static/js/main.fa89745b.chunk.js",
+    "main.js.map": "/fcc-Quotes_Machine/static/js/main.fa89745b.chunk.js.map",
+    "runtime-main.js": "/fcc-Quotes_Machine/static/js/runtime-main.cc853094.js",
+    "runtime-main.js.map": "/fcc-Quotes_Machine/static/js/runtime-main.cc853094.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/fcc-Quotes_Machine/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.463b1e34.chunk.js": "/fcc-Quotes_Machine/static/js/2.463b1e34.chunk.js",
+    "static/js/2.463b1e34.chunk.js.map": "/fcc-Quotes_Machine/static/js/2.463b1e34.chunk.js.map",
+    "index.html": "/fcc-Quotes_Machine/index.html",
+    "precache-manifest.4c870f056474f2bcd05904fc17ee7d52.js": "/fcc-Quotes_Machine/precache-manifest.4c870f056474f2bcd05904fc17ee7d52.js",
+    "service-worker.js": "/fcc-Quotes_Machine/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/fcc-Quotes_Machine/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.23b2d7b1.chunk.css.map": "/fcc-Quotes_Machine/static/css/main.23b2d7b1.chunk.css.map",
+    "static/js/2.463b1e34.chunk.js.LICENSE": "/fcc-Quotes_Machine/static/js/2.463b1e34.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc853094.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.463b1e34.chunk.js",
+    "static/css/main.23b2d7b1.chunk.css",
+    "static/js/main.fa89745b.chunk.js"
+  ]
+}
